@@ -1,6 +1,6 @@
-6412490784e95d0558f6530690680340 *DESCRIPTION
+c4c8e1e316d84022ae85acf7660b8fa4 *DESCRIPTION
 1eed9d7bf9d01e6f4656fdf42aaec7d9 *NAMESPACE
-1044fa55c1b00a1ab2635df86cdb7e74 *NEWS.md
+fc4743fddc427e00b661a35a2b6dae62 *NEWS.md
 cc08481d2819cd8b4126ed89ab618d15 *R/aov.R
 5f0fe575a7835ca086504432bdc5559c *R/create_subtree.R
 9fab2f0613d502c330deca6eec519bbd *R/create_tree.R
@@ -81,14 +81,14 @@ a52403ef9e918589aa7364e3a21a618b *man/show_oat_results.Rd
 60954cd4a220adee8876f5ad814dea9f *tests/testthat/Rplots.pdf
 d41d8cd98f00b204e9800998ecf8427e *tests/testthat/_snaps/option/comparescenario-plot.svg
 c1d52e85c90f5cd2c060020fc801c6d9 *tests/testthat/_snaps/option/showscenario-plot.svg
-469272d52e946ca293bf1c5d09d23ca9 *tests/testthat/test-aov.R
+4bea089b207946c720e895cf515bf0cd *tests/testthat/test-aov.R
 600668b5eba87b322822ad4e8a89cd9f *tests/testthat/test-create_subtree.R
 0aa21d57699dd6db2673066d186a743a *tests/testthat/test-create_tree.R
 17cf44cb148d6516533ba7de5cdbeee3 *tests/testthat/test-depth_order.R
 5439ecec404c0530bc6def886118a887 *tests/testthat/test-monte_carlo.R
-06cd0458819487b237c37c371389412b *tests/testthat/test-node.R
+7d83affee1e0f52a0193c451028b2c06 *tests/testthat/test-node.R
 e1c0883c4db62ff70c8333168c025bb4 *tests/testthat/test-oat.R
-235a5972b8f5fd7b82de927c21bfe25e *tests/testthat/test-option.R
+c5b3a76adc66cc8dfa0e7b063b952589 *tests/testthat/test-option.R
 3d46bfd43c4020ea1240baf4ff76c041 *tests/testthat/test-sensitivity_index.R
 53c9ff53b82ca814743a30e68086048a *tests/testthat/test-synoptique.R
 1f937f3ef84fa09ddf268eedf5836da8 *tests/testthat/test-tree.R
